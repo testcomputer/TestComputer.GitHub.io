@@ -1,200 +1,266 @@
- <!--
-                                                        **testcomputer/testcomputer** 
-                                                        Keep your code neat
-                                                        Maintain simply structure
-                                                        And above all else, leave yourself notes
-                                                    
--->
-    
-<h1 align="center">
-    <img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
-        </h1>
- <!--
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> 
-</p>
--->
-<div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
-        </div>
-
-<div id="badges">
-    </div>
-
-<h1 align="center"> Greetings! 
-    </h1>
- <!-- 
-<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
-</h1> 
--->
+<!-- Create multiple templates -->
 
 
-
-
-
-- :telescope: Currently working as a network specialist.
-
-- 🧮 Advancing my studies in PHP, Lua, Go, & Rust \. Open-source contributor.
- 
-- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
-
-- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
-
-- :small_airplane: "The world is a book and those who don't travel, only read one page." ~ Augustine 
-
-
-<!-- 
-                                                Understand the code 
-                                                Practice simplicity
-                                                Take your time
-                                                Research & study new framworks and techniques-->
-
-
-
-
+<div id="top"></div>
 <!--
-
-
-                                     There is an easter egg located somewhere in this file. Happy hunting! 
-
-
+*** Thanks for checking out the Best-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
 -->
 
-- :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-j-w-torres)
 
-<h1 align="center">
 
-<a href="https://www.linkedin.com/in/daniel-j-w-torres/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-            </a>
-<a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> 
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-            </a>
-<a href="your-twitter-URL">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-            </a>
-<img src="https://github.com/testcomputer"data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> 
-            </a>
-<a href="https://discord.com/channels/1033909070643609662/1033909071520206899">
-<img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" 
-            </a>
-
-  <!-- {YOU_FOUND.THE.FLAG} -->
-<h1 align="center"> 
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
-     </h1>
- 
-<!-- 
-                                            <details>
-                                            <summary>Web development</summary> Web development, 
-                                            also known as website development, refers to the tasks 
-                                            associated with creating, building, and maintaining websties.
-                                            </p>
-                                            </details>
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<h3 align="center"> Languages and Tools I use:
-    </h3>
-<p align="center"> 
-   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg"
-  alt="bootstrap" width="40" height="40"/> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
-  alt="bootstrap" width="40" height="40"/> 
-    </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
-        </a>
-      <a href="https://kali.org/" target="_blank"> 
-    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
-        </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
-        </a>
-  <a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
-    </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
-    </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
-    </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"
-  width="40" height="40"/>
-    </a>
- <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
-    </a>
-        </p> 
-            </h1>
 
-    
-  
-    
-<h1 align="center"> 
-    </h4>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/104815254/210202269-3cd61184-861a-4d87-8cd9-948a48a8d81a.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+<img src="https://user-images.githubusercontent.com/104815254/210202323-684f6316-a86c-49de-84c4-b98517dc2c0e.png">
 
-  <!--   
+  <h3 align="center">Best-README-Template</h3>
 
-                                            <details>
-                                              <summary><strong> Example </strong></summary>
-                                            </details>
-
- 
--->
-
-<h2 align="center">  Network Security Projects 
-    </h1>
-This repository contains a series of projects relative to network security (attack and mitigation). 
-    I work on the development of different projects related to network security, by studying 
-    vulnerabilities and countermeasures in networking systems and communication protocols, I 
-    developed a set of active defence mechanisms to protect a system on different layers.
-    
-    
-### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
-Every projects folder contains the following files:
-
-Description document which defines the guidelines/deliverables and in some cases input and example of output files.
-The project source code
-Topics
-    
-    Project 1: DNS packet capture and fields parsing (malicious detection)
-
-    Project 2: Dynamic ARP Inspection Module
-
-    Project 3: ARP-request reply attack defence (WEP)
-
-    Project 4: DDoS mitigation 
-
-    Project 5: Traffic fingerprinting of TLS flows (Markov chains)
-
-    Project 6: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
-
-<!-- 
-   
-<h4>
-    <details>
-      <summary><strong>Mostly Used Languages </strong></summary>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/>
-    </details>
-</h4>
-
--->
-<div>
-    <h3>
-        <details>
-            <summary>
-                <strong> Professional Summary</strong>
-            </summary>
-        <h5>Analytical Linux system administrator with proven knowledge in various open-source operating systems. 
-        Committed to improving network uptime and system availability. 5 years of experience working with UNIX systems.
-        Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional 
-        performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication 
-        skills to interact effectively with employees and various IT environments. Developing Agile methodology management. 
-            </h5>
-        </details>
-    </h3>
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="">Report Bug</a>
+    ·
+    <a href="">Request Feature</a>
+  </p>
 </div>
 
-<p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
-                                                screenshots/Referrals/azure_referral.png/>
+
+<!-- State yourself outline bit by bit>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+<!-- Each section will have a breakdown behind the code>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [Next.js](https://nextjs.org/)
+* [React.js](https://reactjs.org/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+* [Svelte](https://svelte.dev/)
+* [Laravel](https://laravel.com)
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues]() for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: 
+[contributors-url]: 
+[forks-shield]: 
+[forks-url]: 
+[stars-shield]: 
+[stars-url]: 
+[issues-shield]:
+[issues-url]: 
+[license-shield]:
+[license-url]: 
+[linkedin-shield]:
+[linkedin-url]: 
+[product-screenshot]: images/screenshot.png
+
+
+
+Create a process work flow. Create a project management template. Check communication. 
+Set up personal SLAs.
+Incorporate a clean, organized method of progress.
+
+
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-urlTEST]
+  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/daniel-j-w-torres/]
+
+
