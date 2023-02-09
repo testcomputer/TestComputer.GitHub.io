@@ -20,13 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  [![MIT License][license-shield]][license-urlTEST]
-  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/daniel-j-w-torres/]
-
 
 
 <!-- PROJECT LOGO -->
@@ -261,3 +254,13 @@ Use this space to list resources you find helpful and would like to give credit 
 Create a process work flow. Create a project management template. Check communication. 
 Set up personal SLAs.
 Incorporate a clean, organized method of progress.
+
+
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-urlTEST]
+  [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/daniel-j-w-torres/]
+
+
