@@ -1,0 +1,4 @@
+You could add C:\Program Files (x86)\Notepad++ to your PATH environment variable. 
+For example, you could run the following on the cmd prompt.
+set PATH=%PATH%;C;\Program Files (x86)\Notepad++
+
