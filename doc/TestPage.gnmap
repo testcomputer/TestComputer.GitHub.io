@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Wed Jun  1 17:28:04 2022 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sV -sT -A -O -Pn -oA TestPage 192.168.0.161
+Host: 192.168.0.161 ()	Status: Up
+Host: 192.168.0.161 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 554/open/tcp//rtsp?///, 1042/open/tcp//afrog?///, 1043/open/tcp//ssl|boinc?///, 2869/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/, 10243/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/	Ignored State: filtered (992)	OS: Microsoft Windows 10 1607	Seq Index: 259	IP ID Seq: Incremental
+# Nmap done at Wed Jun  1 17:31:54 2022 -- 1 IP address (1 host up) scanned in 230.36 seconds
