@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <!-- 
     A sample framework for the ESA-NASA WebWorldWind web applications.
